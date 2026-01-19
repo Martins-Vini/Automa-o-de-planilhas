@@ -1,0 +1,6 @@
+Alunos
+
+Mirela,10,10,8,97,10,3°A,Informática para a web,16
+Rogério, 7, 5, 80, 7, 2°B, Nutrição, 16
+Alison, 8, 9, 95, 9.5, 2°B, Nutrição, 18
+Milena, 4, 5, 70, 5, 1°C, Química, 15
